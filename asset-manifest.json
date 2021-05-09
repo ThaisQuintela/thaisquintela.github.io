@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5229500d.chunk.css",
+    "main.js": "/static/js/main.31d186ca.chunk.js",
+    "main.js.map": "/static/js/main.31d186ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c02daeeb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c02daeeb.js.map",
+    "static/js/2.192f9a35.chunk.js": "/static/js/2.192f9a35.chunk.js",
+    "static/js/2.192f9a35.chunk.js.map": "/static/js/2.192f9a35.chunk.js.map",
+    "static/js/3.91b96764.chunk.js": "/static/js/3.91b96764.chunk.js",
+    "static/js/3.91b96764.chunk.js.map": "/static/js/3.91b96764.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5229500d.chunk.css.map": "/static/css/main.5229500d.chunk.css.map",
+    "static/js/2.192f9a35.chunk.js.LICENSE.txt": "/static/js/2.192f9a35.chunk.js.LICENSE.txt",
+    "static/media/GitHub_Logo.746ec8f0.png": "/static/media/GitHub_Logo.746ec8f0.png",
+    "static/media/StarWars.bc531ed0.png": "/static/media/StarWars.bc531ed0.png",
+    "static/media/TriviaGame.1a47cf69.png": "/static/media/TriviaGame.1a47cf69.png",
+    "static/media/TrybeWallet.cd96720e.png": "/static/media/TrybeWallet.cd96720e.png",
+    "static/media/bootstrap.772c1187.png": "/static/media/bootstrap.772c1187.png",
+    "static/media/css.1334cb45.png": "/static/media/css.1334cb45.png",
+    "static/media/figma.7888cc72.png": "/static/media/figma.7888cc72.png",
+    "static/media/git.dfdd0989.png": "/static/media/git.dfdd0989.png",
+    "static/media/html.f3aa7827.png": "/static/media/html.f3aa7827.png",
+    "static/media/mongodb.c2a4797a.png": "/static/media/mongodb.c2a4797a.png",
+    "static/media/mysql.c10b5bc4.png": "/static/media/mysql.c10b5bc4.png",
+    "static/media/react.0f0770d1.png": "/static/media/react.0f0770d1.png",
+    "static/media/redux.5de70b7b.png": "/static/media/redux.5de70b7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02daeeb.js",
+    "static/js/2.192f9a35.chunk.js",
+    "static/css/main.5229500d.chunk.css",
+    "static/js/main.31d186ca.chunk.js"
+  ]
+}
