@@ -3,5 +3,9 @@
 }
 
 .card {
-  width: 20rem;
+  border: 0;
+  box-shadow: rgb(38, 57, 77) 0 20px 30px -10px;
+  max-width: 18rem;
+
+  /* https://getcssscan.com/css-box-shadow-examples */
 }

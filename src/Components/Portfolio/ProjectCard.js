@@ -8,12 +8,12 @@ function ProjectCard(props) {
     <div className="card m-4">
       <img src={ thumbnail } className="card-img-top h-100" />
       <div className="card-body">
-        <h3 className="card-title">{ title }</h3>
+        <h5 className="card-title">{ title }</h5>
         <h6 className="card-subtitle mb-2 text-muted">{ subtitle }</h6>
         <p className="card-text">{ text }</p>
         <a
           href={ link }
-          className="me-5 btn btn-success"
+          className="btn btn-success me-4 px-4"
           target="_blank"
           rel='noreferrer'
         >

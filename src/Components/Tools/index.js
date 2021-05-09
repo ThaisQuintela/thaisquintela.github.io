@@ -5,7 +5,7 @@ import './styles.css';
 
 function Tools() {
   return (
-    <section id="tools" className="tools container h-100 d-flex flex-wrap py-3">
+    <section id="tools" className="tools container-fluid h-100 d-flex flex-wrap py-3">
       <h1 className="my-4 mx-auto">Tools</h1>
       <div>
         <img src={ html } alt="HTML" />

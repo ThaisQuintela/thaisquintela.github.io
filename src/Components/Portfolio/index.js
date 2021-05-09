@@ -8,13 +8,13 @@ function Portfolio() {
   return (
     <section
       id="portfolio"
-      className="portfolio container h-100 py-3"
+      className="portfolio container-fluid h-100 py-3"
     >
       <div>
         <h1>Portfolio</h1>
         <p></p>
       </div>
-      <div className="d-flex flex-wrap">
+      <div className="d-flex flex-wrap justify-content-center">
         <ProjectCard
           classname="StarWars"
           thumbnail={ StarWars }
@@ -38,7 +38,7 @@ function Portfolio() {
           thumbnail={ TriviaGame }
           title="Trivia Game"
           subtitle="React | Redux | API | Responsive"
-          text="This is my project"
+          text="Group project made for Trybe to exercise our soft and hard skills."
           link="https://thaisquintela.github.io/trivia-game/"
           repository="https://github.com/ThaisQuintela/trivia-game"
         />

@@ -3,9 +3,6 @@
 }
 
 .home h1 {
-  background: -webkit-linear-gradient(45deg, #006312, #ade628, #cdff03);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: white;
   font-size: 3rem;
-  font-family: cursive;
 }
