@@ -21,7 +21,7 @@ function ProjectCard(props) {
         </a>
         <a
           href={ repository }
-          className="btn btn-success"
+          className="btn btn-outline-success"
           target="_blank"
           rel='noreferrer'
         >

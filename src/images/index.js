@@ -11,11 +11,12 @@ import git from './git.png';
 import figma from './figma.png';
 import GitHub_Logo from './GitHub_Logo.png';
 
+// Project's images
 import StarWars from './StarWars.png';
 import TrybeWallet from './TrybeWallet.png';
 import TriviaGame from './TriviaGame.png';
 
 export {
   html, css, js, bootstrap, react, redux, mysql, mongodb, nodejs, git,
-  figma, GitHub_Logo, StarWars, TrybeWallet, TriviaGame,
+  figma, GitHub_Logo, StarWars, TrybeWallet, TriviaGame
 };

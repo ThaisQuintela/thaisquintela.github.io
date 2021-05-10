@@ -6,3 +6,9 @@
   height: 5rem;
   margin: 1rem;
 }
+
+@media (min-width: 600px) {
+  .logos {
+    width: 800px;
+  }
+}
