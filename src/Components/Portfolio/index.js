@@ -8,7 +8,7 @@ function Portfolio() {
   return (
     <section
       id="portfolio"
-      className="portfolio container-fluid h-100 py-3"
+      className="portfolio container-fluid h-100 py-5"
     >
       <div>
         <h1>Portfolio</h1>

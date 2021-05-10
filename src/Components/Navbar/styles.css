@@ -1,3 +1,23 @@
 a {
+  color: #fff;
   text-decoration: none;
+}
+
+.navbar i {
+  font-size: 1rem;
+  margin: 0.5rem;
+}
+
+@media (min-width: 600px) {
+  .navbar {
+    margin-right: 5rem;
+  }
+
+  .navbar span {
+    font-size: 1.2rem;
+  }
+
+  .navbar i {
+    font-size: 1.2rem;
+  }
 }

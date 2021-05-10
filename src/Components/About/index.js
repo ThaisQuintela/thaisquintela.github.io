@@ -4,7 +4,7 @@ import './styles.css';
 
 function About() {
   return (
-    <section id="about" className="about container-fluid h-100 py-4 d-flex justify-content-center">
+    <section id="about" className="about container-fluid h-100 py-5 d-flex justify-content-center">
       <div className="aboutMe">
         <h1 className="my-4">About me</h1>
         <p>I am a Front End Developer based in Rio de Janeiro, Brazil. Currently, I am pursuing a Bachelor`s degree in Computer Science and also am a Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>
