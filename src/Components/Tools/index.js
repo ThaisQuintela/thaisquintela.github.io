@@ -7,10 +7,13 @@ function Tools() {
   return (
     <section
       id="tools"
-      className="tools container-fluid h-100 d-flex flex-wrap py-3 justify-content-center"
+      className="tools container-fluid h-100 d-flex flex-wrap py-5 justify-content-center"
     >
       <div className="logos">
-        <h1 className="my-4 mx-auto">Tools</h1>
+        <h1 className="my-4 mx-auto">
+          <i className="bi bi-chevron-double-right"></i>
+          Tools
+        </h1>
         <div>
           <img src={ html } alt="HTML" />
           <img src={ css } alt="CSS" />

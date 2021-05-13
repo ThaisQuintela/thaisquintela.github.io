@@ -1,8 +1,14 @@
 .home {
-  background-color: #1e1e1e;
+  background-image: url("../../images/background.jpg");
+  background-size: cover;
 }
 
-.home h1 {
-  color: white;
-  font-size: 3rem;
+.greetings {
+  color: #0fb55d;
+}
+
+@media (max-width: 600px) {
+  .home {
+    background-position: center;
+  }
 }

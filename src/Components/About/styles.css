@@ -1,15 +1,25 @@
 .about {
-  background-color: #00450d;
-  color: #d8f3d8;
+  background-color: #08060b;
+  color: #fff;
+}
+
+.aboutMe {
+  width: 75%;
 }
 
 .about p {
+  font-size: 1rem;
   line-height: 2rem;
   margin-bottom: 2rem;
 }
 
+.about i {
+  font-size: 2.5rem;
+  color: #0fb55d;
+}
+
 @media (min-width: 600px) {
   .aboutMe {
-    width: 700px;
+    width: 550px;
   }
 }

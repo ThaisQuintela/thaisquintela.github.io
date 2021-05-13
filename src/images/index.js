@@ -16,7 +16,10 @@ import StarWars from './StarWars.png';
 import TrybeWallet from './TrybeWallet.png';
 import TriviaGame from './TriviaGame.png';
 
+// Layout items
+import background from './background.jpg';
+
 export {
   html, css, js, bootstrap, react, redux, mysql, mongodb, nodejs, git,
-  figma, GitHub_Logo, StarWars, TrybeWallet, TriviaGame
+  figma, GitHub_Logo, StarWars, TrybeWallet, TriviaGame, background
 };

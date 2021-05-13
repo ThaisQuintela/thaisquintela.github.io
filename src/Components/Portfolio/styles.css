@@ -1,5 +1,14 @@
 .portfolio {
-  background-color: #b2e6b2;
+  background-color: #dfdde0;
+}
+
+.portfolio h1 {
+  color: #0d6736;
+}
+
+.portfolio i {
+  font-size: 2.5rem;
+  color: #0d6736;
 }
 
 .card {

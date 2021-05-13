@@ -11,7 +11,10 @@ function Portfolio() {
       className="portfolio container-fluid h-100 py-5"
     >
       <div>
-        <h1>Portfolio</h1>
+        <h1>
+          <i className="bi bi-chevron-double-right"></i>
+          Projects
+        </h1>
         <p></p>
       </div>
       <div className="d-flex flex-wrap justify-content-center">
@@ -20,7 +23,7 @@ function Portfolio() {
           thumbnail={ StarWars }
           title="Star Wars Planet Search"
           subtitle="React | ContextAPI | React Hooks | API | Bootstrap | Trybe"
-          text="Trybe's project: develop a filter list of planets from the Star Wars universe using Context API and Hooks to control global states."
+          text="A filter list of planets from the Star Wars universe using Context API and Hooks to control global states."
           link="https://thaisquintela.github.io/starwars-planet-search/"
           repository="https://github.com/ThaisQuintela/starwars-planet-search"
         />
@@ -28,8 +31,8 @@ function Portfolio() {
           classname="TrybeWallet"
           thumbnail={ TrybeWallet }
           title="Trybe Wallet"
-          subtitle="React | Redux | API | Bootstrap | Trybe"
-          text="Trybe's project: develop a spending control wallet with currency converter using the Awesome API to exercise Redux and CRUD."
+          subtitle="React | Redux | API | CRUD | Bootstrap | Trybe"
+          text="A spending control wallet with currency converter using the Awesome API."
           link="https://thaisquintela.github.io/trybe-wallet/"
           repository="https://github.com/ThaisQuintela/trybe-wallet"
         />
@@ -38,7 +41,7 @@ function Portfolio() {
           thumbnail={ TriviaGame }
           title="Trivia Game"
           subtitle="React | Redux | API | Responsive | Trybe | Team Project"
-          text="Trybe's project: develop a game using the Trivia API to exercise team work, problem solving skills and Redux."
+          text="A game using the Trivia API to exercise team work, problem solving skills and Redux."
           link="https://thaisquintela.github.io/trivia-game/"
           repository="https://github.com/ThaisQuintela/trivia-game"
         />

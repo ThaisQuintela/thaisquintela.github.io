@@ -1,5 +1,5 @@
 a {
-  color: #fff;
+  color: inherit;
   text-decoration: none;
 }
 
@@ -8,12 +8,7 @@ a {
 }
 
 .navbar span {
-  font-size: 0.8rem;
-}
-
-.navbar i {
   font-size: 1rem;
-  margin: 0.5rem;
 }
 
 @media (min-width: 600px) {
@@ -23,10 +18,6 @@ a {
   }
 
   .navbar span {
-    font-size: 1.2rem;
-  }
-
-  .navbar i {
     font-size: 1.2rem;
   }
 }
