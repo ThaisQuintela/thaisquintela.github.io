@@ -7,7 +7,7 @@ function About() {
     <section id="about" className="about container-fluid h-100 py-5 d-flex justify-content-center text-white">
       <div className="aboutMe">
         <h1 className="my-4">
-        <i className="bi bi-chevron-double-right"></i>
+        <i className="bi bi-chevron-double-right m-2"></i>
           About me
         </h1>
         <p>I&apos;m a Front End Developer based in Rio de Janeiro, Brazil. Currently, I am pursuing a Bachelor&apos;s degree in Computer Science and also am a Full Stack Web Development student at <a href="https://www.betrybe.com/">Trybe</a>.</p>

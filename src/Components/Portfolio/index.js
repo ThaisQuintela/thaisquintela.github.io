@@ -12,7 +12,7 @@ function Portfolio() {
     >
       <div>
         <h1>
-          <i className="bi bi-chevron-double-right"></i>
+          <i className="bi bi-chevron-double-right m-2"></i>
           Projects
         </h1>
         <p></p>
