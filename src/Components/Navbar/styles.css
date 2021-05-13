@@ -3,6 +3,14 @@ a {
   text-decoration: none;
 }
 
+.navbar {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.01));
+}
+
+.navbar span {
+  font-size: 0.8rem;
+}
+
 .navbar i {
   font-size: 1rem;
   margin: 0.5rem;
@@ -10,7 +18,8 @@ a {
 
 @media (min-width: 600px) {
   .navbar {
-    margin-right: 5rem;
+    padding-right: 5rem;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.01));
   }
 
   .navbar span {

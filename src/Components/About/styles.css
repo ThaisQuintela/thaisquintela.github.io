@@ -3,6 +3,11 @@
   color: #d8f3d8;
 }
 
+.about p {
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+
 @media (min-width: 600px) {
   .aboutMe {
     width: 700px;
