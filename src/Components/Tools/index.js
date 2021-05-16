@@ -10,7 +10,7 @@ function Tools() {
       className="tools container-fluid h-100 d-flex flex-wrap pb-5 justify-content-center"
     >
       <div className="logos">
-        <h1 className="my-4 mx-auto">
+        <h1 className="my-4 ms-3 text-start">
           <i className="bi bi-chevron-double-right m-2"></i>
           Tools
         </h1>

@@ -4,7 +4,7 @@
 }
 
 .aboutMe {
-  width: 75%;
+  width: 85%;
 }
 
 .about p {
@@ -14,8 +14,8 @@
 }
 
 .about i {
-  font-size: 2.5rem;
   color: #0fb55d;
+  font-size: 2.5rem;
 }
 
 @media (min-width: 600px) {

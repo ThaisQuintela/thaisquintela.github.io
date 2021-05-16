@@ -11,8 +11,8 @@ function Portfolio() {
       className="portfolio container-fluid h-100 py-5"
     >
       <div>
-        <h1>
-          <i className="bi bi-chevron-double-right m-2"></i>
+        <h1 className="text-start ms-4">
+          <i className="bi bi-chevron-double-right me-2 ms-0"></i>
           Projects
         </h1>
         <p></p>

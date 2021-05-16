@@ -7,6 +7,10 @@
   color: #0fb55d;
 }
 
+.job {
+  letter-spacing: 1px;
+}
+
 @media (max-width: 600px) {
   .home {
     background-position: center;
