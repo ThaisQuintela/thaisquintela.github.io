@@ -19,15 +19,6 @@ function Portfolio() {
       </div>
       <div className="d-flex flex-wrap justify-content-center">
         <ProjectCard
-          classname="StarWars"
-          thumbnail={ StarWars }
-          title="Star Wars Planet Search"
-          subtitle="React | ContextAPI | React Hooks | API | Bootstrap | Trybe"
-          text="A filter list of planets from the Star Wars universe using Context API and Hooks to control global states."
-          link="https://thaisquintela.github.io/starwars-planet-search/"
-          repository="https://github.com/ThaisQuintela/starwars-planet-search"
-        />
-        <ProjectCard
           classname="TrybeWallet"
           thumbnail={ TrybeWallet }
           title="Trybe Wallet"
@@ -44,6 +35,15 @@ function Portfolio() {
           text="A game using the Trivia API to exercise team work, problem solving skills and Redux."
           link="https://thaisquintela.github.io/trivia-game/"
           repository="https://github.com/ThaisQuintela/trivia-game"
+        />
+        <ProjectCard
+          classname="StarWars"
+          thumbnail={ StarWars }
+          title="Star Wars Planet Search"
+          subtitle="React | ContextAPI | React Hooks | API | Bootstrap | Trybe | Under Development"
+          text="A filter list of planets from the Star Wars universe using Context API and Hooks to control global states."
+          link="https://thaisquintela.github.io/starwars-planet-search/"
+          repository="https://github.com/ThaisQuintela/starwars-planet-search"
         />
       </div>
     </section>
