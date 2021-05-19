@@ -22,4 +22,8 @@
   .aboutMe {
     width: 550px;
   }
+
+  .aboutMe h1 {
+    text-align: center !important;
+  }
 }

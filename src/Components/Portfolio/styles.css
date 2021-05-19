@@ -18,3 +18,9 @@
 
   /* https://getcssscan.com/css-box-shadow-examples */
 }
+
+@media (min-width: 600px) {
+  .portfolio h1 {
+    text-align: center !important;
+  }
+}

@@ -6,7 +6,7 @@ function About() {
   return (
     <section id="about" className="about container-fluid h-100 py-5 d-flex justify-content-center text-white">
       <div className="aboutMe">
-        <h1 className="my-4 text-start">
+        <h1 className="text-start my-4">
         <i className="bi bi-chevron-double-right me-2 ms-0"></i>
           About me
         </h1>

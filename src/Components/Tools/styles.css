@@ -20,4 +20,8 @@
   .logos {
     width: 800px;
   }
+
+  .logos h1 {
+    text-align: center !important;
+  }
 }
