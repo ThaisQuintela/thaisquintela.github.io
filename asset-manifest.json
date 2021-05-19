@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.3f2b1288.chunk.css",
-    "main.js": "/static/js/main.c4d79efa.chunk.js",
-    "main.js.map": "/static/js/main.c4d79efa.chunk.js.map",
+    "main.js": "/static/js/main.f9a13569.chunk.js",
+    "main.js.map": "/static/js/main.f9a13569.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c02daeeb.js",
     "runtime-main.js.map": "/static/js/runtime-main.c02daeeb.js.map",
     "static/js/2.192f9a35.chunk.js": "/static/js/2.192f9a35.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.3f2b1288.chunk.css.map": "/static/css/main.3f2b1288.chunk.css.map",
     "static/js/2.192f9a35.chunk.js.LICENSE.txt": "/static/js/2.192f9a35.chunk.js.LICENSE.txt",
     "static/media/GitHub_Logo.746ec8f0.png": "/static/media/GitHub_Logo.746ec8f0.png",
-    "static/media/StarWars.bc531ed0.png": "/static/media/StarWars.bc531ed0.png",
+    "static/media/StarWars.05e4edc7.png": "/static/media/StarWars.05e4edc7.png",
     "static/media/TriviaGame.1a47cf69.png": "/static/media/TriviaGame.1a47cf69.png",
     "static/media/TrybeWallet.cd96720e.png": "/static/media/TrybeWallet.cd96720e.png",
     "static/media/styles.css": "/static/media/background.58873937.jpg",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.c02daeeb.js",
     "static/js/2.192f9a35.chunk.js",
     "static/css/main.3f2b1288.chunk.css",
-    "static/js/main.c4d79efa.chunk.js"
+    "static/js/main.f9a13569.chunk.js"
   ]
 }
